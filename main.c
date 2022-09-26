@@ -8,8 +8,9 @@
 #include "rutinas.h"
 #include "QEI.h"
 #include "PID.h"
+
 // Position
-float SP = 2;
+float SP = 2.1;
 float Kp = 350.0;
 float Ki = 0.8;
 float Kd = 10.0;
